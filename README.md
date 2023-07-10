@@ -1,5 +1,5 @@
 <h1 align="center">👋 Rohan Kumariya</h1>
-<h3 align="center">Experienced Business Data Analyst</h3>
+<h3 align="center">💼 Business Data Analyst</h3>
 
 👋 Hello there! I'm Rohan Kumariya, a Certified Data Warehouse Engineer and Experienced Business Data Analyst with a passion for uncovering insights from data. As a Master's graduate with cum laude honors in Information Systems, I bring strong analytical skills and a deep understanding of business processes to the table.
 
