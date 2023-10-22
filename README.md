@@ -1,9 +1,9 @@
 <h1 align="center">👋 Rohan Kumariya</h1>
-<h3 align="center">💼 Business Data Analyst</h3>
+<h3 align="center">💼 Data Analyst</h3>
 
-👋 Hello there! I'm Rohan Kumariya, a Certified Data Warehouse Engineer and Experienced Business Data Analyst with a passion for uncovering insights from data. As a Master's graduate with cum laude honors in Information Systems, I bring strong analytical skills and a deep understanding of business processes to the table.
+👋 Hello there! I'm Rohan Kumariya, a Certified Data Warehouse Engineer and Experienced Data Analyst with a passion for uncovering insights from data. As a Master's graduate with cum laude honors in Information Systems, I bring strong analytical skills and a deep understanding of business processes to the table.
 
-💼 In my role as a Business Data Analyst at WEBCRAFT-IT, I developed and maintained SQL databases for multiple departments, ensuring data accuracy, consistency, and completeness. I also leveraged my expertise in data visualization tools like Tableau to communicate key insights to stakeholders, resulting in a 20% increase in data-driven decision-making.
+💼 In my role as a Data Analyst at WEBCRAFT-IT, I developed and maintained SQL databases for multiple departments, ensuring data accuracy, consistency, and completeness. I also leveraged my expertise in data visualization tools like Tableau to communicate key insights to stakeholders, resulting in a 20% increase in data-driven decision-making.
 
 💡 I pride myself on my ability to gather requirements, solve complex problems, and support decision-making processes. With proficiency in SQL, T-SQL, Python (Pandas, PySpark), and data modeling techniques, I excel at data analysis and data warehousing. I am also experienced in cloud platforms like AWS (S3, Athena, Redshift) and Azure Databricks, as well as the Hadoop ecosystem.
 
