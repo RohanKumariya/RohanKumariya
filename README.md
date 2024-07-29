@@ -3,7 +3,7 @@
 
 👋 Hello there! I'm Rohan Kumariya, a Certified Data Warehouse Engineer and Experienced Data Engineer with a passion for uncovering insights from data. As a Master's graduate with cum laude honors in Information Systems, I bring strong analytical skills and a deep understanding of business processes to the table.
 
-💼 In my role as a Data Engineer at WEBCRAFT-IT, I developed and maintained SQL databases for multiple departments, ensuring data accuracy, consistency, and completeness. I also leveraged my expertise in data visualization tools like Tableau to communicate key insights to stakeholders, resulting in a 20% increase in data-driven decision-making.
+💼 In my role as a Data Engineer at Tech Mahindra, I developed and maintained SQL databases for multiple departments, ensuring data accuracy, consistency, and completeness. I also leveraged my expertise in data visualization tools like Tableau to communicate key insights to stakeholders, resulting in an increase in data-driven decision-making.
 
 💡 I pride myself on my ability to gather requirements, solve complex problems, and support decision-making processes. With proficiency in SQL, T-SQL, Python (Pandas, PySpark), and data modeling techniques, I excel at data analysis and data warehousing. I am also experienced in cloud platforms like AWS (S3, Athena, Redshift) and Azure Databricks, as well as the Hadoop ecosystem.
 
